@@ -61,5 +61,6 @@
   <ItemGroup>
     <Build Include="TBL1.sql" />
     <Build Include="MTBL1.sql" />
+    <Build Include="MemFG.sql" />
   </ItemGroup>
 </Project>
