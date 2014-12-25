@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[TBL1]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Name] VARBINARY(50) NULL
+)
